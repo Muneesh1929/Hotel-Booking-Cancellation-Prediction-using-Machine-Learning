@@ -36,7 +36,7 @@ This project focuses on analyzing hotel booking data and predicting whether a bo
 # 📊 Exploratory Data Analysis (EDA)
 
 ## 🔹 Booking Cancellation Count
-![Cancellation](Screenshots/Booking_Cancellation_count.jpeg)
+![Cancellation](Screenshots/Booking_Cancelation_count.jpeg)
 
 👉 More bookings are not canceled than canceled (dataset imbalance).
 
